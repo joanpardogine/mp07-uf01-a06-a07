@@ -1,6 +1,3 @@
-# mp07-uf01-a06-a07
-
-
 ## A06U - Activitat 6: Disseny d'interfícies per aplicació Gestió de tasques
 
 Puja un document en format pdf amb la llista d'accions adjunta (llistat-accions.txt), ordenada i classificada per crear el disseny de la interfície per una **Gestió de tasques**
