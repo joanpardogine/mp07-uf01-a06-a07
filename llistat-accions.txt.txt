@@ -1,0 +1,35 @@
+Accedir a recursos d'ajuda.
+Accedir a registres de canvis.
+Actualitzar estat (pendent, en progrés, completada).
+Adjuntar fitxers o notes.
+Afegir una nova tasca.
+Ajustar configuracions de compte.
+Ajustar prioritats.
+Aplicar filtres personalitzats.
+Arxivar tasques completades.
+Assignar data de venciment.
+Assignar tasques a col·laboradors.
+Buscar tasques per paraules clau.
+Calendari amb esdeveniments i dates límit.
+Canviar el tema o disseny de la interfície.
+Canviar data de venciment.
+Categoritzar tasques (treball, estudi, personal, etc.).
+Classificar tasques per data, prioritat, categoria, etc.
+Comentar i discutir tasques.
+Compartir tasques amb altres usuaris.
+Configurar preferències de notificació.
+Crear un compte nou.
+Crear i gestionar llistes de tasques.
+Eliminar tasques.
+Enviar comentaris o informar problemes.
+Establir prioritats.
+Establir recordatoris per a tasques.
+Iniciar sessió amb credencials existents.
+Modificar detalls duna tasca.
+Realitzar còpies de seguretat de dades.
+Rebre notificacions per correu oa l'aplicació.
+Restaurar dades des de còpies de seguretat.
+Resum de tasques completades.
+Utilitzar filtres avançats a la cerca.
+Veure historial de tasques completades.
+Vista general de tasques pendents.
